@@ -9,7 +9,6 @@ Group: 		Graphical desktop/KDE
 Url: 		http://kde-look.org/content/show.php/Drop2FTP?content=97281
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	plasma-devel
-Provides:	plasma-applet
 
 %description 
 This is a KDE 4 plasma applet which can copy files with every protocol
