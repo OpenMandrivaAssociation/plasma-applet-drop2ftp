@@ -6,7 +6,7 @@ Release: 	%mkrel 1
 Source0:	97281-%oname-%version.tar.gz
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
-Url: 		http://kde-look.org/content/show.php/Drop2FTP?content=97281
+Url: 		https://kde-look.org/content/show.php/Drop2FTP?content=97281
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	plasma-devel
 
