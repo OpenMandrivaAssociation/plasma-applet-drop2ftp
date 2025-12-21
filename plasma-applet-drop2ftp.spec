@@ -8,6 +8,7 @@ License: 	GPLv2+
 Group: 		Graphical desktop/KDE
 Url: 		https://kde-look.org/content/show.php/Drop2FTP?content=97281
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:	plasma-devel
 
 %description 
